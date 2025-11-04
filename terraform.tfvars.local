@@ -1,0 +1,4 @@
+# Ejemplo de variables para el proyecto
+bucket_name = "mi-empresa-iac-demo"
+region      = "us-east-1"
+environment = "dev"
